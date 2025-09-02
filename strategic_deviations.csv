@@ -1,0 +1,17 @@
+Player Hand,Dealer Card,True Count,Move
+16,10,0,Stand
+15,10,-4,Stand
+13,2,-1,Stand
+12,3,2,Stand
+12,2,3,Stand
+11,A,1,Double/Hit
+10,10,4,Double/Hit
+10,A,4,Double/Hit
+9,2,1,Double/Hit
+9,7,3,Double/Hit
+16,9,-5,Stand
+13,3,-2,Stand
+12,4,0,Stand
+12,5,-2,Stand
+12,6,-1,Stand
+13,2,-1,Stand
